@@ -1,0 +1,18 @@
+body{
+margin:0;
+background-image:url('IMG.jpg');
+}
+img{
+	align-items:left;
+}
+form{
+	background-color:pulpe;
+	background-size:cover
+}
+table{ 
+background-color:purple;
+}
+h1{
+	align-items:center;
+}
+	
